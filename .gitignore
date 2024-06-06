@@ -1,0 +1,5 @@
+# Project exclude paths
+/kafka/target/
+/module-import-test/target/
+/mybatis/target/
+/redis/target/
